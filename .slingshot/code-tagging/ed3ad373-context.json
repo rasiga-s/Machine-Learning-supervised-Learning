@@ -1,0 +1,31 @@
+{
+  "filename": "train.py",
+  "path": "app/train.py",
+  "version": "1.1",
+  "files": {
+    "b1f34ae2": {
+      "value": [
+        {
+          "programming_language": "Python",
+          "fileName": "train.py",
+          "relativeFilePath": "app/train.py",
+          "startLine": [
+            1
+          ],
+          "endLine": [
+            26
+          ]
+        }
+      ]
+    }
+  },
+  "promptMessage": {
+    "5b873b8c": {
+      "value": "I want to add the requiremnet.txt file"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}
