@@ -1,9 +1,9 @@
 {
-  "app/train.py": {
-    "filename": "train.py",
-    "path": "app/train.py",
+  "app/singleLinearRegression.py": {
+    "filename": "singleLinearRegression.py",
+    "path": "app/singleLinearRegression.py",
     "version": "1.2",
-    "contextFile": null,
+    "contextFile": "b4ff7f42-context.json",
     "chunks": {
       "2da5bb": {
         "user": "Rasiga Selvam",

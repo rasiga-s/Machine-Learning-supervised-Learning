@@ -1,6 +1,6 @@
 {
-  "filename": "train.py",
-  "path": "app/train.py",
+  "filename": "singleLinearRegression.py",
+  "path": "app/singleLinearRegression.py",
   "version": "1.1",
   "files": {
     "b1f34ae2": {
