@@ -1,0 +1,50 @@
+{
+  "app/train.py": {
+    "filename": "train.py",
+    "path": "app/train.py",
+    "version": "1.2",
+    "contextFile": null,
+    "chunks": {
+      "2da5bb": {
+        "user": "Rasiga Selvam",
+        "model": "gpt-4.1",
+        "timestamp": 1792685563,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "5b873b8c",
+          "files": "b1f34ae2"
+        },
+        "hash": "c24360e1",
+        "messageId": "system_6107c870-ce33-11f1-9b71-9397cf34ce94",
+        "codeBlockId": "system_6107c870-ce33-11f1-9b71-9397cf34ce94-Codeblock-1",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Rasiga Selvam\n- **model**: gpt-4.1\n- **timestamp**: 22/10/2026, 21:42:43\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "eb8e81": {
+        "user": "Rasiga Selvam",
+        "model": "gpt-4.1",
+        "timestamp": 1792745706,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "5b873b8c",
+          "files": "b1f34ae2"
+        },
+        "hash": "563668b2",
+        "messageId": "system_6107c870-ce33-11f1-9b71-9397cf34ce94",
+        "codeBlockId": "system_6107c870-ce33-11f1-9b71-9397cf34ce94-Codeblock-2",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Rasiga Selvam\n- **model**: gpt-4.1\n- **timestamp**: 23/10/2026, 14:25:06\n- **source**: chat\n- **type**: copyCode\n"
+      }
+    },
+    "lines": {},
+    "_prevLineCount": 50
+  }
+}
