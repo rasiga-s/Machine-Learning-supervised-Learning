@@ -1,9 +1,9 @@
 {
-  "app/singleLinearRegression.py": {
+  "app/regression/singleLinearRegression.py": {
     "filename": "singleLinearRegression.py",
-    "path": "app/singleLinearRegression.py",
+    "path": "app/regression/singleLinearRegression.py",
     "version": "1.2",
-    "contextFile": "b4ff7f42-context.json",
+    "contextFile": "b03fbf29-context.json",
     "chunks": {
       "2da5bb": {
         "user": "Rasiga Selvam",
